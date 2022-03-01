@@ -18,4 +18,4 @@
 
 1. [Line plot basics][lpblink] : plot, axvline, axhline 등을 사용하며 Lineplot을 그리는 방법을 다룹니다. 
 
-[lpblink]:https://github.com/ceo21ckim/Visualization/blob/main/matplotlib/2.%20lineplot/Line%20plot%20basics.py "Line plot"
+[lpblink]:https://github.com/ceo21ckim/Visualization/blob/main/matplotlib/2.%20lineplot/1.%20Line%20plot%20basics.py "Line plot"
